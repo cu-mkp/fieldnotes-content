@@ -1,7 +1,10 @@
+# Naming spec for fieldnotes files and folders
+
 `[semester]_[type]_[lastname]_[firstname]_[subject]`
 delimited with + and - within each field
 
 directory structure and naming:
+
 ```
 sp17/
 	./fieldnotes/
