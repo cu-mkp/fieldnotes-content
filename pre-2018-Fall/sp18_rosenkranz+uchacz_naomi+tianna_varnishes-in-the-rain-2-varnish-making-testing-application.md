@@ -57,21 +57,16 @@
 
 #### Background
 
--   In previous lab work, we prepared the support and applied the paint
-    > layers \[add link\]
+-   In previous lab work, we prepared the support and applied the paint layers \[add link\]
 
-    -   Painted oil colors dry enough not to leave color on finger when
-        > touched, though not completely dry
+    -   Painted oil colors dry enough not to leave color on finger when touched, though not completely dry
 
-    -   Decision made to apply varnish to this partially dry paint in
-        > order to better simulate the time constraints of creating
-        > ephemeral works like banners and painted canvas arches
+    -   Decision made to apply varnish to this partially dry paint in order to better simulate the time constraints of creating ephemeral works like banners and painted canvas arches
 
 #### Aims
 
 -   Prepare the 4 varnishes to be tested:
 
-    -   
 
 | **Short Name** | **Full Name**                               | **Kind**       |
 |----------------|---------------------------------------------|----------------|
@@ -88,16 +83,13 @@
 
     -   Ceramic plate to hold wooden chopsticks used to stir varnishes
 
-    -   Stainless steel bowl with sand to accommodate hot beakers and
-        > glass vials
+    -   Stainless steel bowl with sand to accommodate hot beakers and glass vials
 
     -   Leather gloves to handle hot beakers
 
     -   Digital infrared thermometer
 
-        -   Note: difficult to get accurate, uniform reading with this
-            > thermometer; all temperatures listed in the observations
-            > below are averages or approximations
+        -   Note: difficult to get accurate, uniform reading with this thermometer; all temperatures listed in the observations below are averages or approximations
 
 | **Image URL:**                                                            | [<u>https://www.flickr.com/photos/128418753@N06/40449181630/in/album-72157691299113830/</u>](https://www.flickr.com/photos/128418753@N06/40449181630/in/album-72157691299113830/) |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -244,8 +236,7 @@
 
 -   Colophony quite quite easy to crush
 
--   Larger amount than needed crushed to a fine powder using large stone
-    > mortar and pestle
+-   Larger amount than needed crushed to a fine powder using large stone mortar and pestle
 
 -   Slightly aromatic
 
@@ -255,9 +246,7 @@
 
 -   It it is not a dry powder
 
--   Using plastic utensils and weigh boat creates a lot of static
-    > electricity, and the powder moves around jumps away from the
-    > plastic
+-   Using plastic utensils and weigh boat creates a lot of static electricity, and the powder moves around jumps away from the plastic
 
 | **Image URL:**                                                            | [<u>https://www.flickr.com/photos/128418753@N06/41536808584/in/album-72157691299113830/</u>](https://www.flickr.com/photos/128418753@N06/41536808584/in/album-72157691299113830/) |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -273,11 +262,9 @@
 
 -   We will be using hotplate D on level 3
 
--   Recipe from Tirat et al calls for heating mixture for 100 min
-    > between 170 and 250°C
+-   Recipe from Tirat et al calls for heating mixture for 100 min between 170 and 250°C
 
--   DECISION: we will bring walnut oil to 170°C, then add colophony and
-    > heat for 60 min
+-   DECISION: we will bring walnut oil to 170°C, then add colophony and heat for 60 min
 
 -   10.2 g crushed colophony
 
@@ -301,8 +288,7 @@
 
 -   Add colophony
 
--   Starts to melt in one big lump and begins to dissolve into smaller
-    > lumps
+-   Starts to melt in one big lump and begins to dissolve into smaller lumps
 
 | **Image URL:**                                                            | [<u>https://www.flickr.com/photos/128418753@N06/40449207490/in/album-72157691299113830/</u>](https://www.flickr.com/photos/128418753@N06/40449207490/in/album-72157691299113830/) |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -328,14 +314,11 @@
 
 -   11:37 am 196°C; stirred
 
--   Solution has been getting increasingly darker, from an amber color
-    > toward a reddish hue
+-   Solution has been getting increasingly darker, from an amber color toward a reddish hue
 
--   Chopstick used to stir has attracted some of the gooey lumps; these
-    > can be shaken off in the hot varnish
+-   Chopstick used to stir has attracted some of the gooey lumps; these can be shaken off in the hot varnish
 
--   11:41 am decision to not stir for 5 minutes to raise temperature and
-    > see if small bubbly, gooey bits will dissolve
+-   11:41 am decision to not stir for 5 minutes to raise temperature and see if small bubbly, gooey bits will dissolve
 
 | **Image URL:**                                                             | [<u>https://www.flickr.com/photos/128418753@N06/40449206390/in/album-72157691299113830/</u>](https://www.flickr.com/photos/128418753@N06/40449206390/in/album-72157691299113830/) |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -361,8 +344,7 @@
 
 -   11:55 am 223°C; stirred
 
--   Turned hotplate back to 3; this seems optimal, even with
-    > fluctuations
+-   Turned hotplate back to 3; this seems optimal, even with fluctuations
 
 -   11:58 am steam rising
 
@@ -374,19 +356,13 @@
 
 -   12:09 pm 227°C; stirred
 
--   12:15 pm all remaining gooey dark lumps in the varnish have now
-    > dissolved. Decision to leave chopstick in the varnish solution for
-    > 5 min to see if those congealed lumps will dissolve; stirred
-    > throughout and tried to rub stick against side of beaker to
-    > promote dissolution
+-   12:15 pm all remaining gooey dark lumps in the varnish have now dissolved. Decision to leave chopstick in the varnish solution for 5 min to see if those congealed lumps will dissolve; stirred throughout and tried to rub stick against side of beaker to promote dissolution
 
--   12:17 pm seems like some of the chopstick lump is dissolving, but
-    > not much and not qickly
+-   12:17 pm seems like some of the chopstick lump is dissolving, but not much and not qickly
 
 -   12:20 pm chopstick out; much of congealed mass remains
 
--   Wafted smell from varnish: hints of woodiness, umami, hot sauna
-    > smell
+-   Wafted smell from varnish: hints of woodiness, umami, hot sauna smell
 
 -   Is this just from having left the chopstick in?
 
@@ -398,8 +374,7 @@
 
 -   12:52 pm 208°C; stirred
 
--   12:59 pm seems like there has been little change to observe in last
-    > few minutes
+-   12:59 pm seems like there has been little change to observe in last few minutes
 
 -   1:10 pm 180°C; stirred
 
@@ -571,8 +546,7 @@
 
 ##### MASTIC + OIL OF TURPENTINE
 
--   Mastic is fragile—it shatters—and is easily broken up by mortar and
-    > pestle (medium-sized ceramic)
+-   Mastic is fragile—it shatters—and is easily broken up by mortar and pestle (medium-sized ceramic)
 
 -   Very aromatic, more of a pine smell than colophony
 
@@ -582,14 +556,9 @@
 
 -   Using hotplate E on level 3
 
--   DECISION: start with ration of 2:1 mastic to oil of turpentine; can
-    > expand toward 4:1 ratio if varnish seems too runny
+-   DECISION: start with ration of 2:1 mastic to oil of turpentine; can expand toward 4:1 ratio if varnish seems too runny
 
--   DECISION: though Venice and Silver Fir turpentines were heated first
-    > and then oil of turpentine added when at temp, we will not try to
-    > melt mastic directly but heat the oil of turpentine and then add
-    > the mastic, watching for signs of excessive volatility of oil of
-    > turpentine on heat
+-   DECISION: though Venice and Silver Fir turpentines were heated first and then oil of turpentine added when at temp, we will not try to melt mastic directly but heat the oil of turpentine and then add the mastic, watching for signs of excessive volatility of oil of turpentine on heat
 
 -   40.1 g crushed mastic
 
@@ -611,8 +580,7 @@
 
 -   Remove from heat
 
--   Granular feel as stirring, like running chopstick through bloated
-    > and saturated small pieces of sheet gelatin
+-   Granular feel as stirring, like running chopstick through bloated and saturated small pieces of sheet gelatin
 
 -   12:03 pm back on heat
 
@@ -620,22 +588,19 @@
 
 -   No more resistance
 
--   Stirring in tipped beaker to get residual powdered mastic off sides
-    > of beaker
+-   Stirring in tipped beaker to get residual powdered mastic off sides of beaker
 
 -   Much thicker in consistency than any other varnish
 
 -   12:06 pm removed from heat
 
--   Resembles melted honey hair removal wax in its slight crystalline
-    > scintillation
+-   Resembles melted honey hair removal wax in its slight crystalline scintillation
 
 -   Smells vaguely sweet
 
 -   Poured into glass vials
 
--   12:17 very thick in vial already; little movement when vial is
-    > tipped
+-   12:17 very thick in vial already; little movement when vial is tipped
 
 | **Image URL:**                                                             | [<u>https://www.flickr.com/photos/128418753@N06/41356733395/in/album-72157691299113830/</u>](https://www.flickr.com/photos/128418753@N06/41356733395/in/album-72157691299113830/) |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -686,31 +651,19 @@ Test”
 
 -   Compare the color and consistency of the finished varnishes
 
--   Assess the utility of the author-practitioner’s “knife test,” as
-    > described on fols.
-    > [<u>60v</u>](https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl),
-    > [<u>88r</u>](https://edition640.makingandknowing.org/#/folios/88r/f/88r/tl),
-    > and
-    > [<u>97v</u>](https://edition640.makingandknowing.org/#/folios/97v/f/97v/tl)
+-   Assess the utility of the author-practitioner’s “knife test,” as described on fols. [<u>60v</u>](https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl), [<u>88r</u>](https://edition640.makingandknowing.org/#/folios/88r/f/88r/tl), and [<u>97v</u>](https://edition640.makingandknowing.org/#/folios/97v/f/97v/tl)
 
-    -   “There is no need to put in turpentine, but only its white
-        > turpentine oil & mastic pulverized at your discretion, until
-        > it has enough body. \[...\] which one knows when, being placed
-        > on a knife in the wind, it does not run.” (fol. 60v)
+    -   “There is no need to put in turpentine, but only its white turpentine oil & mastic pulverized at your discretion, until it has enough body. \[...\] which one knows when, being placed on a knife in the wind, it does not run.” (fol. 60v)
 
-    -   “Test on a very clean knife, & you will know then if it has
-        > enough body & if it does not run too much.” (88r)
+    -   “Test on a very clean knife, & you will know then if it has enough body & if it does not run too much.” (88r)
 
-    -   “try it on the knife, and if you see that it has too much body,
-        > add in a little turpentine oil, and if it does not have
-        > enough, add in mastic, and thus it will be done.” (97v)
+    -   “try it on the knife, and if you see that it has too much body, add in a little turpentine oil, and if it does not have enough, add in mastic, and thus it will be done.” (97v)
 
 #### Set-up & materials
 
 -   For this, we assembled:
 
-    -   Vials containing the four varnishes (W + C, ST + TO, VT + TO,
-        > M + TO)
+    -   Vials containing the four varnishes (W + C, ST + TO, VT + TO, M + TO)
 
     -   White paper
 
@@ -733,12 +686,9 @@ Test”
 
 ##### COLOR COMPARISON
 
--   Against a background of white paper, the newly made vials of varnish
-    > ranged in color from dark mahogany (W + C) and maroon (VT + TO) to
-    > amber (ST + TO) and honey (M + TO)
+-   Against a background of white paper, the newly made vials of varnish ranged in color from dark mahogany (W + C) and maroon (VT + TO) to amber (ST + TO) and honey (M + TO)
 
--   M + TO was comparatively opaque (perhaps due to its thick
-    > consistency), while the other three were more transparent
+-   M + TO was comparatively opaque (perhaps due to its thick consistency), while the other three were more transparent
 
 | **Image URL:**                                                             | [<u>https://www.flickr.com/photos/128418753@N06/40451844540/in/album-72157691299113830/</u>](https://www.flickr.com/photos/128418753@N06/40451844540/in/album-72157691299113830/) |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -787,11 +737,9 @@ Test”
 
 #### Aims
 
--   Apply the 4 varnishes in horizontal strips across the previously
-    > painted test canvases
+-   Apply the 4 varnishes in horizontal strips across the previously painted test canvases
 
--   Informally assess and compare the handling properties of the 4
-    > varnishes
+-   Informally assess and compare the handling properties of the 4 varnishes
 
 #### Set-up & materials
 
@@ -819,8 +767,7 @@ Test”
 
     -   Test varnish consistency and handling on watercolor paper
 
-    -   apply varnishes in the pre-defined horizontal bands or strips
-        > across the width of the prepared canvas
+    -   apply varnishes in the pre-defined horizontal bands or strips across the width of the prepared canvas
 
 -   Leaving the bottom strip of each canvas unvarnished
 
@@ -828,19 +775,15 @@ Test”
 
 #### Process & Observations
 
--   12:30: divided painted canvases into 5 horizontal strips using a
-    > pencil
+-   12:30: divided painted canvases into 5 horizontal strips using a pencil
 
-    -   Each strip cuts across all of the vertically staggered layers of
-        > ground and paint
+    -   Each strip cuts across all of the vertically staggered layers of ground and paint
 
 -   Poured each varnish into its own disposable paper cup
 
-    -   This was straightforward for three of the varnishes (W + C; ST +
-        > TO; VT + TO), which were all fairly fluid
+    -   This was straightforward for three of the varnishes (W + C; ST + TO; VT + TO), which were all fairly fluid
 
-    -   This was difficult for the mastic varnish (M + TO), which was
-        > especially thick and viscous
+    -   This was difficult for the mastic varnish (M + TO), which was especially thick and viscous
 
 -   Working area is now prepared
 
@@ -874,14 +817,11 @@ Test”
 
     -   goes on smoothly
 
-    -   Initially flows off relief areas (e.g., raised dots of the oil
-        > paint) as it dries
+    -   Initially flows off relief areas (e.g., raised dots of the oil paint) as it dries
 
-    -   Went over these areas a few minutes later with the brush in the
-        > opposite direction of application
+    -   Went over these areas a few minutes later with the brush in the opposite direction of application
 
-    -   Very yellow in appearance, esp. visible over the lead white;
-        > distorts colors beneath
+    -   Very yellow in appearance, esp. visible over the lead white; distorts colors beneath
 
 | **Image URL:**                                                             | [<u>https://www.flickr.com/photos/128418753@N06/27385787237/in/album-72157691299113830/</u>](https://www.flickr.com/photos/128418753@N06/27385787237/in/album-72157691299113830/) |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -907,17 +847,13 @@ Test”
 
     -   Very runny
 
-    -   Blow test on palette knife (detailed in previous section) shows
-        > that varnish is probably a bit runnier than it should be
+    -   Blow test on palette knife (detailed in previous section) shows that varnish is probably a bit runnier than it should be
 
-    -   So runny that it drips easily from brush, runs down handle of
-        > brush
+    -   So runny that it drips easily from brush, runs down handle of brush
 
-    -   Looks like the varnish is absorbed or evaporates or dries near
-        > instantly
+    -   Looks like the varnish is absorbed or evaporates or dries near instantly
 
-    -   Very clear in appearance; no visible distortion of colors
-        > beneath
+    -   Very clear in appearance; no visible distortion of colors beneath
 
 | **Image URL:**                                                             | [<u>https://www.flickr.com/photos/128418753@N06/28382890388/in/album-72157691299113830/</u>](https://www.flickr.com/photos/128418753@N06/28382890388/in/album-72157691299113830/) |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -943,8 +879,7 @@ Test”
 
     -   Nice, smooth consistency for application
 
-    -   Slightly yellow in appearance, esp. visible over the lead white;
-        > slightly distorts colors beneath
+    -   Slightly yellow in appearance, esp. visible over the lead white; slightly distorts colors beneath
 
 | **Image URL:**                                                             | [<u>https://www.flickr.com/photos/128418753@N06/42209779792/in/album-72157691299113830/</u>](https://www.flickr.com/photos/128418753@N06/42209779792/in/album-72157691299113830/) |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -974,13 +909,11 @@ Test”
 
     -   So thick it hardly pours from the vial
 
-    -   Almost too thick to apply with a brush—firm, short-bristled
-        > brush works best
+    -   Almost too thick to apply with a brush—firm, short-bristled brush works best
 
     -   Apply in thicker blobs and then pull across paint to even out
 
-    -   Difficult to apply; brushstrokes remain visible in this thick
-        > varnish
+    -   Difficult to apply; brushstrokes remain visible in this thick varnish
 
     -   Very glossy in appearance
 
