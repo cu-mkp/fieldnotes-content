@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="">
+    <title>$student$ Fieldnotes | $fullsemester$</title>
+</head>
+<body>
+    <h1>$student$ Fieldnotes | $fullsemester$</h1>
+    <p>$intro$</p>
+    <br>
+    <ul>
+    $for(pages)$
+        <li><b><a href="$it.link$">$it.title$.</a></b> $it.desc$</li>
+    $endfor$
+    </ul>
+</body>
+</html>
