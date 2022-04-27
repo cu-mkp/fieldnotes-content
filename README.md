@@ -2,6 +2,7 @@
 
 # fieldnotes-content
 Html content pages for M&amp;K fieldnotes
+Works in tandem with https://github.com/cu-mkp/fieldnotes-restructuring (where code to reorganize and structure the html pages is housed)
 
 # `content/`
 Within `content/`, files are organized by semester, from fa14 to fa18.
