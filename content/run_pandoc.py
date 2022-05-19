@@ -22,7 +22,17 @@ def pandoc(template):
            "--data-dir", DATA_DIR,
            "--template", TEMPLATES[template],
            "index.md"]
-    process = run(cmd, check=True)
+
+    process = run(cmd)
+
+    if process.stdout is not None:
+        print(process.stdout)
+
+    if process.returncode != 0:
+        print("Directory: " + getcwd())
+        print(' '.join(process.args))
+        if process.stderr is not None:
+            print(process.stderr)
 
 def get_dirs():
     # Returns list of directories in current directories (not recursive)
