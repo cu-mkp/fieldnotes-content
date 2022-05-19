@@ -10,10 +10,12 @@
     <h1>$fullsemester$</h1>
     <p>$intro$</p>
     <br>
+    $if(subpages)$
     <ul>
-    $for(pages)$
+    $for(subpages)$
         <li><b><a href="$it.link$">$it.title$.</a></b> $it.desc$</li>
     $endfor$
     </ul>
+    $endif$
 </body>
 </html>

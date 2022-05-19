@@ -19,10 +19,12 @@
         $endif$
     <p>$intro$</p>
     <br>
+    $if(pages)$
     <ul>
     $for(pages)$
         <li><b><a href="$it.link$">$it.title$.</a></b> $it.desc$</li>
     $endfor$
     </ul>
+    $endif$
 </body>
 </html>
