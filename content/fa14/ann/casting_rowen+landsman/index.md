@@ -3,17 +3,17 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "fa14"
+fullsemester: "Fall 2014"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Rowen and Landsman"
+topic: "Casting"
 
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
+- title: "Index Superseded"
+  link: "fa14_ann_casting_rowen%2Blandsman_index-superseded.html"
+  desc: ""
 
 ---
