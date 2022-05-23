@@ -1,19 +1,22 @@
 ---
-title: ""
+title: "Durkin Annotation Fieldnotes"
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp15"
+fullsemester: "Spring 2015"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Durkin"
+topic: "Molded Sugar Fruits"
 
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
+- title: "Gans Sugar Casting"
+  link: "sp15_ann_molded-sugar-fruits_durkin_gans-sugar-casting.html"
+  desc: ""
+- title: "Molding Fruits And Animals In Sugar"
+  link: "sp15_ann_molded-sugar-fruits_durkin_molding-fruits-and-animals-in-sugar.html"
+  desc: ""
 
 ---

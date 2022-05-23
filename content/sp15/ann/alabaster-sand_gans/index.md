@@ -1,19 +1,19 @@
 ---
-title: ""
+title: "Gans Annotation Fieldnotes"
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp15"
+fullsemester: "Spring 2015"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Gans"
+topic: "Alabaster Sand"
 
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
+- title: "Alabaster Sand Annotation"
+  link: "sp15_ann_alabaster-sand_gans_alabaster-sand-annotation.html"
+  desc: ""
 
 ---
