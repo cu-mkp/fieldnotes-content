@@ -12,8 +12,13 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Annotation Plans"
+  link: "sp17_ann_distillation_eom_annotation-plans.html"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
 ---
