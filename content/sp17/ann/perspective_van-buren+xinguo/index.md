@@ -12,8 +12,13 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Annotation"
+  link: "sp17_perspective_van-buren+xinguo_annotation.html"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
 ---
