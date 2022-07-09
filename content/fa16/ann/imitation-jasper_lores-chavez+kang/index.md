@@ -12,8 +12,16 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Annotation Imitating Raw Nature "
+  link: "fa16_ann_imitation-jasper_lores-chavez+kang_annotation-imitating-raw-nature-.html"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
+- title: "Imitation Jasper"
+  link: "fa16_ann_imitation-jasper_lores-chavez+kang_imitation-jasper.html"
+  desc: ""
 ---

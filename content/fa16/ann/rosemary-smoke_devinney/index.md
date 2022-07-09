@@ -12,8 +12,13 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
+- title: "Annotation Plans"
+  link: "fa16_ann_rosemary-smoke_devinney_annotation-plans.html"
+  desc: ""
 ---
