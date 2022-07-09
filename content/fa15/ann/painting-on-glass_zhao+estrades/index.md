@@ -12,8 +12,19 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Painting On Glass"
+  link: "fa15_ann_painting-on-glass_zhao+estrades_painting-on-glass.html"
+  desc: ""
+- title: "Painting On Glass Annotation"
+  link: "fa15_ann_painting-on-glass_zhao+estrades_painting-on-glass-annotation.html"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
+- title: "Gilding On Glass"
+  link: "fa15_ann_painting-on-glass_zhao+estrades_gilding-on-glass.html"
+  desc: ""
 ---

@@ -12,8 +12,16 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Annotation Plans"
+  link: "fa15_ann_oil-taffeta_bowen+lou_annotation-plans.html"
+  desc: ""
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
+- title: "Annotation Preparation"
+  link: "fa15_ann_oil-taffeta_bowen+lou_annotation-preparation.html"
+  desc: ""
 ---
