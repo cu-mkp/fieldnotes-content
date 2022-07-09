@@ -12,8 +12,13 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
+- title: "Yar Annotation Plans"
+  link: "fa17_ann_oil-painting-on-taffeta_yar-annotation-plans.html"
+  desc: ""
 ---
