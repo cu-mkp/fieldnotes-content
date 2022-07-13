@@ -12,8 +12,13 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
+- title: "Annotation Plan"
+  link: "sp16_ann_reverse-painting-on-glass_zhao_annotation-plan.html"
+  desc: ""
 ---
