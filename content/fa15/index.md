@@ -9,7 +9,13 @@ fullsemester: "Fall 2017"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
+- title: "Annotations"
+  link: "ann/index.html"
+  desc: ""
+- title: "Field Notes"
+  link: "fld/index.html"
+  desc: ""
+- title: "Profiles"
+  link: "profiles/index.html"
+  desc: ""
 ---

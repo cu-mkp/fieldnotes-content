@@ -12,8 +12,13 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
+- title: "Varied And Transmuted Wine Experiment"
+  link: "fa15_ann_varied-and-transmuted-wine_mukherjee+carr_varied-and-transmuted-wine-experiment.html"
+  desc: ""
 ---
