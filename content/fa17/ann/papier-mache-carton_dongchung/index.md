@@ -12,8 +12,16 @@ topic: "Stucco"
 intro: ""
 
 pages:
-  - title: ""
-    link: ""
-    desc: ""
-
+- title: "Annotation Plans Tyd Fa17"
+  link: "fa17_ann_papier-mache-carton_dongchung_annotation-plans-tyd-fa17.html"
+  desc: ""
+- title: "Pages"
+  link: "pages.md"
+  desc: ""
+- title: "Index"
+  link: "index.md"
+  desc: ""
+- title: "Papier Mache Annotation Diary"
+  link: "fa17_ann_papier-mache-carton_dongchung_papier-mache-annotation-diary.html"
+  desc: ""
 ---
