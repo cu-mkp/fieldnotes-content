@@ -12,13 +12,7 @@ topic: "Stucco"
 intro: ""
 
 pages:
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Annotation Plan"
   link: "fa16_ann_dried-flowers_sellar_annotation-plan.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 ---
