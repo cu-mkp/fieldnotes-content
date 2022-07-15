@@ -15,9 +15,6 @@ pages:
 - title: "Donefer Hickie Annotation"
   link: "fa16_ann_glass_donefer-hickie-annotation.html"
   desc: ""
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Annotation Plan"
   link: "fa16_ann_glass_donefer-hickie_annotation-plan.html"
   desc: ""
@@ -26,8 +23,5 @@ pages:
   desc: ""
 - title: "Annotation"
   link: "fa16_ann_glass_donefer-hickie_annotation.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 ---
