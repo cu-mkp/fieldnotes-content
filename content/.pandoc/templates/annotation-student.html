@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="">
-    <title>$topic$ | $fullsemester$</title>
-</head>
-<body>
-    <h1>$topic$ | $fullsemester$</h1>
-    <h2>
-        $if(students/allbutlast)$
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="" rel="stylesheet" type="text/css"/>
+  <title>
+   $topic$ | $fullsemester$
+  </title>
+ </head>
+ <body>
+  <h1>
+   $topic$ | $fullsemester$
+  </h1>
+  <h2>
+   $if(students/allbutlast)$
             $for(students/allbutlast)$
                 ${it},
             $endfor$
@@ -17,14 +21,24 @@
         $else$
             ${students/last}
         $endif$
-    <p>$intro$</p>
-    <br>
-    $if(pages)$
-    <ul>
+   <p>
+    $intro$
+   </p>
+   <br/>
+   $if(pages)$
+   <ul>
     $for(pages)$
-        <li><b><a href="$it.link$">$it.title$.</a></b> $it.desc$</li>
+    <li>
+     <b>
+      <a href="$it.link$">
+       $it.title$.
+      </a>
+     </b>
+     $it.desc$
+    </li>
     $endfor$
-    </ul>
-    $endif$
-</body>
+   </ul>
+   $endif$
+  </h2>
+ </body>
 </html>

@@ -1,41 +1,85 @@
 <html>
-  <head>
-    <title>makingandknowing - Classnote on Introduction to XML</title>
-    <link rel="stylesheet" href="static/style.css" type="text/css" />
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  </head>
-  <body>
-    <div class="wiki" id="content_view" style="display: block;">
-<strong><span style="background-color: #ffffff;">By: Terence Catapano</span></strong><br />
-<strong><span style="background-color: #ffffff;">Location: Studio@Butler</span></strong><br />
-<strong><span style="background-color: #ffffff;">Time: </span></strong><strong><span style="background-color: #ffffff;">5 - 6 pm</span></strong><br />
-<strong><span style="background-color: #ffffff;">Weather:</span></strong><br />
-<br />
-Mark-up adds structure, commentary. Languages include GML, SGML, COCOA, HTML, XML, LMNL. GML was the oldest one. HTML is the most famous one. XML came up in 1998. LMNL is a non-hierarchical language where layer substitues hierarchies. Conferences on Markup discusses its function, future and so on.<br />
-<br />
-Types of Markup include procedural vs descriptive. Others include proleptic vc metaleptic, indicative vs imperative, prospective vs retrospective. we will attempt to do retrospective markup which works on an existing texts. One of the editors of TEI was a humanities professor - a paleaographer.<br />
-<br />
-XML is simplified SGML. It's maintained by the World Wide Web Consortium (W3G), and are open standard and therefore non-proprietary. They are platform independent, non-binary. In most cases, the fundamental base of XML is a document. It is a string of texts and a sequence of nodes like a tree. Mixed content is a feature in XML which is difficult to process and XML allows this specifically.<br />
-building blocks of XML are elements - eg: line element &lt;LINE.Now is the winter of our discontent&lt;/LINE&gt; - there's a start and an end tag. No space or colons, may not start with a number. Elements may content text or other elements: &lt;LINE&gt;&lt;WORD&gt;now&lt;WORD&gt;is&lt;/WORD&gt;&lt;/LINE&gt;<br />
-It delineates and labels segments of text. Order is not significant.<br />
-Attributes: can only be texts, cant squeeze in an element in an attribute, must begin with a letter, underscore or colon, order is not significant. eg: &lt;LINE n=&quot;1&quot;&gt; trans-de=...&lt;/LINE&gt;<br />
-There should be no overlap. One element cannot start before the previous element ends.<br />
-XML character encoding + entities: Use unicodes. Predefined character entities if we need unicode content as individual characters in the text itself:<br />
-<br />
-1. &amp;lt; (&lt;) --- &amp; and ; are the definers.<br />
-<br />
-2. &amp;gt; (&gt;)<br />
-<br />
-3. &amp;amp; (&amp;)<br />
-<br />
-4. &amp;apos; (')<br />
-<br />
-5. &amp;quot; (&quot;)<br />
-<br />
-Can include comments that need not be processed: &lt;!--...--&gt;<br />
-<br />
-More on: <br />
-<a class="wiki_link_ext" href="https://github.com/cu-mkp/GR8975/blob/master/presentations/XML_intro.ppt" rel="nofollow">https://github.com/cu-mkp/GR8975/blob/master/presentations/XML_intro.ppt</a>
-    </div>
-  </body>
+ <head>
+  <title>
+   makingandknowing - Classnote on Introduction to XML
+  </title>
+  <link href="static/style.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+ </head>
+ <body>
+  <div class="wiki" id="content_view" style="display: block;">
+   <strong>
+    <span style="background-color: #ffffff;">
+     By: Terence Catapano
+    </span>
+   </strong>
+   <br/>
+   <strong>
+    <span style="background-color: #ffffff;">
+     Location: Studio@Butler
+    </span>
+   </strong>
+   <br/>
+   <strong>
+    <span style="background-color: #ffffff;">
+     Time:
+    </span>
+   </strong>
+   <strong>
+    <span style="background-color: #ffffff;">
+     5 - 6 pm
+    </span>
+   </strong>
+   <br/>
+   <strong>
+    <span style="background-color: #ffffff;">
+     Weather:
+    </span>
+   </strong>
+   <br/>
+   <br/>
+   Mark-up adds structure, commentary. Languages include GML, SGML, COCOA, HTML, XML, LMNL. GML was the oldest one. HTML is the most famous one. XML came up in 1998. LMNL is a non-hierarchical language where layer substitues hierarchies. Conferences on Markup discusses its function, future and so on.
+   <br/>
+   <br/>
+   Types of Markup include procedural vs descriptive. Others include proleptic vc metaleptic, indicative vs imperative, prospective vs retrospective. we will attempt to do retrospective markup which works on an existing texts. One of the editors of TEI was a humanities professor - a paleaographer.
+   <br/>
+   <br/>
+   XML is simplified SGML. It's maintained by the World Wide Web Consortium (W3G), and are open standard and therefore non-proprietary. They are platform independent, non-binary. In most cases, the fundamental base of XML is a document. It is a string of texts and a sequence of nodes like a tree. Mixed content is a feature in XML which is difficult to process and XML allows this specifically.
+   <br/>
+   building blocks of XML are elements - eg: line element &lt;LINE.Now is the winter of our discontent&lt;/LINE&gt; - there's a start and an end tag. No space or colons, may not start with a number. Elements may content text or other elements: &lt;LINE&gt;&lt;WORD&gt;now&lt;WORD&gt;is&lt;/WORD&gt;&lt;/LINE&gt;
+   <br/>
+   It delineates and labels segments of text. Order is not significant.
+   <br/>
+   Attributes: can only be texts, cant squeeze in an element in an attribute, must begin with a letter, underscore or colon, order is not significant. eg: &lt;LINE n="1"&gt; trans-de=...&lt;/LINE&gt;
+   <br/>
+   There should be no overlap. One element cannot start before the previous element ends.
+   <br/>
+   XML character encoding + entities: Use unicodes. Predefined character entities if we need unicode content as individual characters in the text itself:
+   <br/>
+   <br/>
+   1. &amp;lt; (&lt;) --- &amp; and ; are the definers.
+   <br/>
+   <br/>
+   2. &amp;gt; (&gt;)
+   <br/>
+   <br/>
+   3. &amp;amp; (&amp;)
+   <br/>
+   <br/>
+   4. &amp;apos; (')
+   <br/>
+   <br/>
+   5. &amp;quot; (")
+   <br/>
+   <br/>
+   Can include comments that need not be processed: &lt;!--...--&gt;
+   <br/>
+   <br/>
+   More on:
+   <br/>
+   <a class="wiki_link_ext" href="https://github.com/cu-mkp/GR8975/blob/master/presentations/XML_intro.ppt" rel="nofollow">
+    https://github.com/cu-mkp/GR8975/blob/master/presentations/XML_intro.ppt
+   </a>
+  </div>
+ </body>
 </html>
