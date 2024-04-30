@@ -1,79 +1,213 @@
 <html>
-  <head>
-    <title>makingandknowing - XML tagging in entry-files</title>
-    <link rel="stylesheet" href="static/style.css" type="text/css" />
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  </head>
-  <body>
-    <div class="wiki" id="content_view" style="display: block;">
-<h2 id="toc0"><a name="x-XML Tagging in Entry-Files"></a><strong>XML Tagging in Entry-Files</strong></h2>
- <br />
-<div id="toc"><h1 class="nopad">Table of Contents</h1><div style="margin-left: 2em;"><a href="#x-XML Tagging in Entry-Files">XML Tagging in Entry-Files</a></div>
-<div style="margin-left: 3em;"><a href="#x-XML Tagging in Entry-Files-2017.March.12, 4:00pm">2017.March.12, 4:00pm</a></div>
-<div style="margin-left: 3em;"><a href="#x-XML Tagging in Entry-Files-2017.March.13, 11:00am">2017.March.13, 11:00am</a></div>
-<div style="margin-left: 3em;"><a href="#x-XML Tagging in Entry-Files-2017.March.17, 7:00pm">2017.March.17, 7:00pm</a></div>
-<div style="margin-left: 3em;"><a href="#x-XML Tagging in Entry-Files-2017.March.19, 5:00pm">2017.March.19, 5:00pm</a></div>
-</div>
-<strong>Name:</strong> Sohini Chattopadhyay<br />
-<strong>Date and Time:</strong><br />
-<h3 id="toc1"><a name="x-XML Tagging in Entry-Files-2017.March.12, 4:00pm"></a>2017.March.12, 4:00pm</h3>
- <strong>Location: 112th Street, NY 10025</strong><br />
-<strong>Subject: Begin exercise</strong><br />
-<br />
-I began working on the xml files. I began the task by using sublime text.<br />
-<br />
-I followed the sample xml sheet but it did not have an example of tagging images. I decided to also shift to notepad++ just to play around with different text editors. I saw that it's easier to work on the tagging after saving the file with an xml extension. This was so because once notepad++ recognizes that it is editing an xml document, it automatically renders the elements and the attributes into different colours.<br />
-<br />
-Going back to tagging images, I kept on working on some tags while figuring out how to use them correctly. In order to vaguely check for errors, I copied the xml files to the web browser which would highlight errors. This appeared to be very helpful. I eventually realized that some of my errors were due to the clashing of elements. I was not tagging the image as a sub element within the entry element which created a problem. Once I figured this, it became easier to tag.<br />
-Many online xml tutorials had files that showed an xml declaration. I included one xml declaration by checking the encoding I was using on the bottom right of my notepad++ editor. I did this as a learning process - I wanted to understand what are the versions of XML, and how the structure of the declaration is different from structures of attributes. I understand that XML document without a declaration is an XML 1.0 document, therefore it's better to specify it since XML 1.1 makes the XML declaration mandatory. Moreover, the encoding of the document is for convenience for transmitting the document, and since the foundation of XML is Unicode. If we do not specify the encoding through an XML declaration, XML processor assumes its UTF-8 or UTF-16.<br />
-I began searching for a list because it would throw up some challenges in tagging and require some editorial interpretation as well. I tagged each content of the list 169r separately while putting them within the broad element of &lt;list&gt;. I wanted to do this because I explicitly wanted to highlight that each are semantically distinct.<br />
-<br />
-<hr />
-<br />
-<strong>Name:</strong> Sohini Chattopadhyay<br />
-<strong>Date and Time:</strong><br />
-<h3 id="toc2"><a name="x-XML Tagging in Entry-Files-2017.March.13, 11:00am"></a>2017.March.13, 11:00am</h3>
- <strong>Location: 112th Street, NY 10025</strong><br />
-<strong>Subject: Selection and modification of some unique entries</strong><br />
-<br />
-entry p169v_2 continued into different folios so I chose this to experiment with my xml taggings.<br />
-<br />
-for entry p158v_3 I tried to follow one of the user stories that cropped up in our earlier discussions on user story: to juxtapose the digitized texts and the folio facsimile for the viewers to see both. Therefore I created a new entry &lt;manuscript&gt; to tag the images. I did not want to use the term folio as we were already using that to signify the folio number and the url. I used the word manuscript for want of a better word to substitute folio.<br />
-<br />
-<hr />
-<br />
-<strong>Name:</strong> Sohini Chattopadhyay<br />
-<strong>Date and Time:</strong><br />
-<h3 id="toc3"><a name="x-XML Tagging in Entry-Files-2017.March.17, 7:00pm"></a>2017.March.17, 7:00pm</h3>
- <strong>Location: 112th Street, NY 10025</strong><br />
-<strong>Subject: Committed and sent xml files to remote repository</strong><br />
-<br />
-I fetched/pulled, committed and pushed the xml files to the remote github repository on 17th March.<br />
-___<br />
-<br />
-<strong>Name:</strong> Sohini Chattopadhyay<br />
-<strong>Date and Time:</strong><br />
-<h3 id="toc4"><a name="x-XML Tagging in Entry-Files-2017.March.19, 5:00pm"></a>2017.March.19, 5:00pm</h3>
- <strong>Location: 112th Street, NY 10025</strong><br />
-<strong>Subject: Working on another unique file</strong><br />
-<br />
-began working on an entry with historical names and documents following tei guidelines in <a class="wiki_link_ext" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html" rel="nofollow">http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html</a>.<br />
-I picked this file because it had sub-headings on the left margins. I checked with the facsimile of the folio to check the positions. I created a new element called subheading to demarcate the subheadings. While in the margin, these cannot be categorized as marginalia. I assume that instead these were the author's way of categorizing for this particular entry. This also contained names of groups of people like 'Greeks' which I described through the element &lt;people&gt; as I did not want to use the term &lt;nation&gt; without a sound knowledge of the prevalent meaning of the term contemporaneous to the author of the manuscript. It actually made me realize that tagging is a strong intellectual exercise that allows one to attribute new characteristics and stable meanings to words. Therefore, it's not just a way of rendering a manuscript into a digital form, but the process itself is an active form of reading as well as interpreting and editing. For the purpose of learning and to experiment with xml, I tried to insert a link to the mention of Herodotus. I renders questions about editorial liberty, for which reason I put the link in the background of the text. I am also unsure if I did it correctly at all or not. I also want to learn more about creating a 'class' as shown in the tei guidelines. So far, my last three attempts to do so were very vague at best.<br />
-<br />
-<br />
-References:<br />
-<br />
-<a class="wiki_link_ext" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/" rel="nofollow">http://www.tei-c.org/release/doc/tei-p5-doc/en/html/</a><br />
-<br />
-<a class="wiki_link_ext" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html" rel="nofollow">http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html</a><br />
-<br />
-<a class="wiki_link_ext" href="http://dh.obdurodon.org/what-is-xml.xhtml" rel="nofollow">http://dh.obdurodon.org/what-is-xml.xhtml</a><br />
-<br />
-<a class="wiki_link_ext" href="http://www.ibm.com/developerworks/library/x-tipdecl/" rel="nofollow">http://www.ibm.com/developerworks/library/x-tipdecl/</a><br />
-<br />
-<a class="wiki_link_ext" href="https://www.w3.org/standards/xml/core" rel="nofollow">https://www.w3.org/standards/xml/core</a><br />
-<br />
-I found this website helpful to clarify some of my doubts: <a class="wiki_link_ext" href="https://www.tutorialspoint.com/xml/index.htm" rel="nofollow">https://www.tutorialspoint.com/xml/index.htm</a>
+ <head>
+  <title>
+   makingandknowing - XML tagging in entry-files
+  </title>
+  <link href="static/style.css" rel="stylesheet" type="text/css"/>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+ </head>
+ <body>
+  <div class="wiki" id="content_view" style="display: block;">
+   <h2 id="toc0">
+    <a name="x-XML Tagging in Entry-Files">
+    </a>
+    <strong>
+     XML Tagging in Entry-Files
+    </strong>
+   </h2>
+   <br/>
+   <div id="toc">
+    <h1 class="nopad">
+     Table of Contents
+    </h1>
+    <div style="margin-left: 2em;">
+     <a href="#x-XML Tagging in Entry-Files">
+      XML Tagging in Entry-Files
+     </a>
     </div>
-  </body>
+    <div style="margin-left: 3em;">
+     <a href="#x-XML Tagging in Entry-Files-2017.March.12, 4:00pm">
+      2017.March.12, 4:00pm
+     </a>
+    </div>
+    <div style="margin-left: 3em;">
+     <a href="#x-XML Tagging in Entry-Files-2017.March.13, 11:00am">
+      2017.March.13, 11:00am
+     </a>
+    </div>
+    <div style="margin-left: 3em;">
+     <a href="#x-XML Tagging in Entry-Files-2017.March.17, 7:00pm">
+      2017.March.17, 7:00pm
+     </a>
+    </div>
+    <div style="margin-left: 3em;">
+     <a href="#x-XML Tagging in Entry-Files-2017.March.19, 5:00pm">
+      2017.March.19, 5:00pm
+     </a>
+    </div>
+   </div>
+   <strong>
+    Name:
+   </strong>
+   Sohini Chattopadhyay
+   <br/>
+   <strong>
+    Date and Time:
+   </strong>
+   <br/>
+   <h3 id="toc1">
+    <a name="x-XML Tagging in Entry-Files-2017.March.12, 4:00pm">
+    </a>
+    2017.March.12, 4:00pm
+   </h3>
+   <strong>
+    Location: 112th Street, NY 10025
+   </strong>
+   <br/>
+   <strong>
+    Subject: Begin exercise
+   </strong>
+   <br/>
+   <br/>
+   I began working on the xml files. I began the task by using sublime text.
+   <br/>
+   <br/>
+   I followed the sample xml sheet but it did not have an example of tagging images. I decided to also shift to notepad++ just to play around with different text editors. I saw that it's easier to work on the tagging after saving the file with an xml extension. This was so because once notepad++ recognizes that it is editing an xml document, it automatically renders the elements and the attributes into different colours.
+   <br/>
+   <br/>
+   Going back to tagging images, I kept on working on some tags while figuring out how to use them correctly. In order to vaguely check for errors, I copied the xml files to the web browser which would highlight errors. This appeared to be very helpful. I eventually realized that some of my errors were due to the clashing of elements. I was not tagging the image as a sub element within the entry element which created a problem. Once I figured this, it became easier to tag.
+   <br/>
+   Many online xml tutorials had files that showed an xml declaration. I included one xml declaration by checking the encoding I was using on the bottom right of my notepad++ editor. I did this as a learning process - I wanted to understand what are the versions of XML, and how the structure of the declaration is different from structures of attributes. I understand that XML document without a declaration is an XML 1.0 document, therefore it's better to specify it since XML 1.1 makes the XML declaration mandatory. Moreover, the encoding of the document is for convenience for transmitting the document, and since the foundation of XML is Unicode. If we do not specify the encoding through an XML declaration, XML processor assumes its UTF-8 or UTF-16.
+   <br/>
+   I began searching for a list because it would throw up some challenges in tagging and require some editorial interpretation as well. I tagged each content of the list 169r separately while putting them within the broad element of &lt;list&gt;. I wanted to do this because I explicitly wanted to highlight that each are semantically distinct.
+   <br/>
+   <br/>
+   <hr/>
+   <br/>
+   <strong>
+    Name:
+   </strong>
+   Sohini Chattopadhyay
+   <br/>
+   <strong>
+    Date and Time:
+   </strong>
+   <br/>
+   <h3 id="toc2">
+    <a name="x-XML Tagging in Entry-Files-2017.March.13, 11:00am">
+    </a>
+    2017.March.13, 11:00am
+   </h3>
+   <strong>
+    Location: 112th Street, NY 10025
+   </strong>
+   <br/>
+   <strong>
+    Subject: Selection and modification of some unique entries
+   </strong>
+   <br/>
+   <br/>
+   entry p169v_2 continued into different folios so I chose this to experiment with my xml taggings.
+   <br/>
+   <br/>
+   for entry p158v_3 I tried to follow one of the user stories that cropped up in our earlier discussions on user story: to juxtapose the digitized texts and the folio facsimile for the viewers to see both. Therefore I created a new entry &lt;manuscript&gt; to tag the images. I did not want to use the term folio as we were already using that to signify the folio number and the url. I used the word manuscript for want of a better word to substitute folio.
+   <br/>
+   <br/>
+   <hr/>
+   <br/>
+   <strong>
+    Name:
+   </strong>
+   Sohini Chattopadhyay
+   <br/>
+   <strong>
+    Date and Time:
+   </strong>
+   <br/>
+   <h3 id="toc3">
+    <a name="x-XML Tagging in Entry-Files-2017.March.17, 7:00pm">
+    </a>
+    2017.March.17, 7:00pm
+   </h3>
+   <strong>
+    Location: 112th Street, NY 10025
+   </strong>
+   <br/>
+   <strong>
+    Subject: Committed and sent xml files to remote repository
+   </strong>
+   <br/>
+   <br/>
+   I fetched/pulled, committed and pushed the xml files to the remote github repository on 17th March.
+   <br/>
+   ___
+   <br/>
+   <br/>
+   <strong>
+    Name:
+   </strong>
+   Sohini Chattopadhyay
+   <br/>
+   <strong>
+    Date and Time:
+   </strong>
+   <br/>
+   <h3 id="toc4">
+    <a name="x-XML Tagging in Entry-Files-2017.March.19, 5:00pm">
+    </a>
+    2017.March.19, 5:00pm
+   </h3>
+   <strong>
+    Location: 112th Street, NY 10025
+   </strong>
+   <br/>
+   <strong>
+    Subject: Working on another unique file
+   </strong>
+   <br/>
+   <br/>
+   began working on an entry with historical names and documents following tei guidelines in
+   <a class="wiki_link_ext" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html" rel="nofollow">
+    http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html
+   </a>
+   .
+   <br/>
+   I picked this file because it had sub-headings on the left margins. I checked with the facsimile of the folio to check the positions. I created a new element called subheading to demarcate the subheadings. While in the margin, these cannot be categorized as marginalia. I assume that instead these were the author's way of categorizing for this particular entry. This also contained names of groups of people like 'Greeks' which I described through the element &lt;people&gt; as I did not want to use the term &lt;nation&gt; without a sound knowledge of the prevalent meaning of the term contemporaneous to the author of the manuscript. It actually made me realize that tagging is a strong intellectual exercise that allows one to attribute new characteristics and stable meanings to words. Therefore, it's not just a way of rendering a manuscript into a digital form, but the process itself is an active form of reading as well as interpreting and editing. For the purpose of learning and to experiment with xml, I tried to insert a link to the mention of Herodotus. I renders questions about editorial liberty, for which reason I put the link in the background of the text. I am also unsure if I did it correctly at all or not. I also want to learn more about creating a 'class' as shown in the tei guidelines. So far, my last three attempts to do so were very vague at best.
+   <br/>
+   <br/>
+   <br/>
+   References:
+   <br/>
+   <br/>
+   <a class="wiki_link_ext" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/" rel="nofollow">
+    http://www.tei-c.org/release/doc/tei-p5-doc/en/html/
+   </a>
+   <br/>
+   <br/>
+   <a class="wiki_link_ext" href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html" rel="nofollow">
+    http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html
+   </a>
+   <br/>
+   <br/>
+   <a class="wiki_link_ext" href="http://dh.obdurodon.org/what-is-xml.xhtml" rel="nofollow">
+    http://dh.obdurodon.org/what-is-xml.xhtml
+   </a>
+   <br/>
+   <br/>
+   <a class="wiki_link_ext" href="http://www.ibm.com/developerworks/library/x-tipdecl/" rel="nofollow">
+    http://www.ibm.com/developerworks/library/x-tipdecl/
+   </a>
+   <br/>
+   <br/>
+   <a class="wiki_link_ext" href="https://www.w3.org/standards/xml/core" rel="nofollow">
+    https://www.w3.org/standards/xml/core
+   </a>
+   <br/>
+   <br/>
+   I found this website helpful to clarify some of my doubts:
+   <a class="wiki_link_ext" href="https://www.tutorialspoint.com/xml/index.htm" rel="nofollow">
+    https://www.tutorialspoint.com/xml/index.htm
+   </a>
+  </div>
+ </body>
 </html>
