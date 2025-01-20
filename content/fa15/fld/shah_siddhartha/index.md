@@ -1,41 +1,22 @@
 ---
-title: "Nina Elizondo-Garza Fieldnotes"
+title: ""
 output:
     html_document:
         template: fieldnote.html
-semester: "fa17"
-fullsemester: "Fall 2017"
-student: "Nina Elizondo-Garza"
+semester: "fa15"
+fullsemester: "Fall 2015"
+student: "Siddhartha Shah"
 
-intro: "Nina is a person. She was born at a very young age."
+intro: ""
 
 pages:
-  - title: "Historical Culinary Reconstruction"
-    link: "fa17_fld_elizondo-garza_nina_hcr.html"
+  - title: "Index Superseded"
+    link: "fa15_fld_shah_siddhartha_index-superseded.html"
     desc: ""
-  - title: "Verdigris Experiment"
-    link: "fa17_fld_elizondo-garza_nina_verdigris-experiment.html"
+  - title: "Gesso On Wood Panel"
+    link: "fa15_fld_shah_siddhartha_gesso-on-wood-panel.html"
     desc: ""
-  - title: "An Exploration of Bread Making"
-    link: "fa17_fld_elizondo-garza_nina_an-exploration-of-bread-making.html"
+  - title: "Historic Culinary Recipe Reconstruction Hcr Quince Jelly"
+    link: "fa15_fld_shah_siddhartha_historic-culinary-recipe-reconstruction-hcr-quince-jelly.html"
     desc: ""
-  - title: "From Madder Root to Madder Lake"
-    link: "fa17_fld_elizondo-garza_nina_from-madder-root-to-madder-lake.html"
-    desc: ""
-  - title: "Azurite"
-    link: "fa17_fld_elizondo-garza_nina_azurite.html"
-    desc: ""
-  - title: "Flour Stucco and Paste Glue"
-    link: "../dongchung_tenzin/fa17_fld_dongchung_tenzin_stucco.html"
-    desc: ""
-  - title: "Annotation Plans"
-    link: "../../ann/stucco_elizondo-garza/fa17_ann_stucco_elizondo-garza_annotation-plans.html"
-    desc: ""
-  - title: "Stucco Annotation Fieldnotes"
-    link: "../../ann/stucco_elizondo-garza/fa17_ann_stucco_elizondo-garza-stucco-fol-29r-1.html"
-    desc: ""
-  - title: "Stucco Annotation - Painting Stucco"
-    link: "../../ann/stucco_elizondo-garza/fa17_ann_stucco_elizondo-garza_stucco-annotation-painting-stucco.html"
-    desc: ""
-
 ---
