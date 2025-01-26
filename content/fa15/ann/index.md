@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Fall 2025 Annotation Fieldnotes"
 output:
     html_document:
         template: annotation-semester.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "fa15"
+fullsemester: "Fall 2015"
 
 intro: ""
 

@@ -1,41 +1,22 @@
 ---
-title: "Nina Elizondo-Garza Fieldnotes"
+title: ""
 output:
     html_document:
         template: fieldnote.html
-semester: "fa17"
-fullsemester: "Fall 2017"
-student: "Nina Elizondo-Garza"
+semester: "sp16"
+fullsemester: "Spring 2016"
+student: "Sophie Pitman"
 
-intro: "Nina is a person. She was born at a very young age."
+intro: ""
 
 pages:
-  - title: "Historical Culinary Reconstruction"
-    link: "fa17_fld_elizondo-garza_nina_hcr.html"
+  - title: "Canvas Preparation"
+    link: "sp16_fld_pitman_sophie_canvas-preparation.html"
     desc: ""
-  - title: "Verdigris Experiment"
-    link: "fa17_fld_elizondo-garza_nina_verdigris-experiment.html"
+  - title: "The Manner To Make A Pastry Cooks Varnishing Stuff With The Which He Gives His Pyes A Colour"
+    link: "sp16_fld_pitman_sophie_the-manner-to-make-a-pastry-cooks-varnishing-stuff-with-the-which-he-gives-his-pyes-a-colour.html"
     desc: ""
-  - title: "An Exploration of Bread Making"
-    link: "fa17_fld_elizondo-garza_nina_an-exploration-of-bread-making.html"
+  - title: "Index Superseded"
+    link: "sp16_fld_pitman_sophie_index-superseded.html"
     desc: ""
-  - title: "From Madder Root to Madder Lake"
-    link: "fa17_fld_elizondo-garza_nina_from-madder-root-to-madder-lake.html"
-    desc: ""
-  - title: "Azurite"
-    link: "fa17_fld_elizondo-garza_nina_azurite.html"
-    desc: ""
-  - title: "Flour Stucco and Paste Glue"
-    link: "../dongchung_tenzin/fa17_fld_dongchung_tenzin_stucco.html"
-    desc: ""
-  - title: "Annotation Plans"
-    link: "../../ann/stucco_elizondo-garza/fa17_ann_stucco_elizondo-garza_annotation-plans.html"
-    desc: ""
-  - title: "Stucco Annotation Fieldnotes"
-    link: "../../ann/stucco_elizondo-garza/fa17_ann_stucco_elizondo-garza-stucco-fol-29r-1.html"
-    desc: ""
-  - title: "Stucco Annotation - Painting Stucco"
-    link: "../../ann/stucco_elizondo-garza/fa17_ann_stucco_elizondo-garza_stucco-annotation-painting-stucco.html"
-    desc: ""
-
 ---

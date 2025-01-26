@@ -3,11 +3,12 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "fa16"
+fullsemester: "Fall 2016"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Kang"
+  - name: "Lores-Chavez"
+topic: "Black Sulfured Wax"
 
 intro: ""
 

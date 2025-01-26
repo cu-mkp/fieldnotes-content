@@ -3,23 +3,18 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp17"
+fullsemester: "Spring 2017"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Nicole Basile"
+  - name: "Hannah Elmer"
+topic: "Gout"
 
 intro: ""
 
 pages:
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Annotation Plans"
   link: "sp17_ann_gout_basile+elmer_annotation-plans.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Annotations"
   link: "sp17_ann_gout_basile+elmer_annotations.html"

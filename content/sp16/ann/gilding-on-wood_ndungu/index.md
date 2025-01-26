@@ -3,11 +3,11 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp16"
+fullsemester: "Sprign 2016"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Njeri Ndungu"
+topic: "Gilding on Wood"
 
 intro: ""
 
@@ -45,9 +45,6 @@ pages:
 - title: "Secondary Source Notes"
   link: "sp16_ann_gilding-on-wood_ndungu_secondary-source-notes.html"
   desc: ""
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Gns Field Notes Sp16 Flemish Recipes"
   link: "sp16_ann_gilding-on-wood_ndungu_gns-field-notes-sp16-flemish-recipes.html"
   desc: ""
@@ -56,9 +53,6 @@ pages:
   desc: ""
 - title: "Ndungu Ms Fr 640 Recipes"
   link: "sp16_ann_gilding-on-wood_ndungu_ndungu-ms-fr-640-recipes.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Matte Gold"
   link: "sp16_ann_gilding-on-wood_ndungu_matte-gold.html"

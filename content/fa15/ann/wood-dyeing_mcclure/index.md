@@ -3,11 +3,11 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "fa15"
+fullsemester: "Fall 2015"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "David McClure"
+topic: "Wood Dyeing"
 
 intro: ""
 
@@ -21,9 +21,6 @@ pages:
 - title: "Verdigris Dye Results"
   link: "fa15_ann_wood-dyeing_mcclure_verdigris-dye-results.html"
   desc: ""
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Red Madder Dye"
   link: "fa15_ann_wood-dyeing_mcclure_red-madder-dye.html"
   desc: ""
@@ -35,9 +32,6 @@ pages:
   desc: ""
 - title: "Annotation Notes"
   link: "fa15_ann_wood-dyeing_mcclure_annotation-notes.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Coloring Wood Methods And Materials"
   link: "fa15_ann_wood-dyeing_mcclure_coloring-wood-methods-and-materials.html"

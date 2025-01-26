@@ -1,11 +1,20 @@
+---
+title: ""
+output:
+    html_document:
+        template: fieldnote.html
+semester: "fa17"
+fullsemester: "Fall 2017"
+student: "Reut Ullman"
+
+intro: ""
+
+pages:
   - title: "Historical Culinary Reconstruction"
     link: "fa17_fld_ullman_reut_historical-culinary-reconstruction.html"
     desc: ""
   - title: "Madder Fa17"
     link: "fa17_fld_ullman_reut_madder-fa17.html"
-    desc: ""
-  - title: "Pages"
-    link: "pages.md"
     desc: ""
   - title: "Bread Molding Fa17"
     link: "fa17_fld_ullman_reut_bread-molding-fa17.html"
@@ -22,3 +31,4 @@
   - title: "Stucco Fa17"
     link: "fa17_fld_ullman_reut_stucco-fa17.html"
     desc: ""
+---

@@ -1,8 +1,17 @@
+---
+title: ""
+output:
+    html_document:
+        template: fieldnote.html
+semester: "fa17"
+fullsemester: "Fall 2017"
+student: "Carl Garris"
+
+intro: ""
+
+pages:
   - title: "Madder"
     link: "fa17_fld_garris_carl_madder.html"
-    desc: ""
-  - title: "Pages"
-    link: "pages.md"
     desc: ""
   - title: "Breadmaking"
     link: "fa17_fld_garris_carl_breadmaking.html"
@@ -25,3 +34,4 @@
   - title: "Index Superseded"
     link: "fa17_fld_garris_carl_index-superseded.html"
     desc: ""
+---

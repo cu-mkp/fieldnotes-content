@@ -3,14 +3,17 @@ title: ""
 output:
     html_document:
         template: fieldnote.html
-semester: "sp16"
-fullsemester: "Spring 2016"
+semester: "fa17"
+fullsemester: "Fall 2017"
 student: "Example"
 
 intro: ""
 
 pages:
+  - title: "Pages"
+    link: "pages.md"
+    desc: ""
   - title: "Index Superseded"
-    link: "sp16_fld_safety-protocol-examples__index-superseded.html"
+    link: "fa17_fld_example__index-superseded.html"
     desc: ""
 ---

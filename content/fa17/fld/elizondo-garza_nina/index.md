@@ -1,5 +1,5 @@
 ---
-title: "Nina Elizondo-Garza Fieldnotes"
+title: ""
 output:
     html_document:
         template: fieldnote.html
@@ -7,7 +7,7 @@ semester: "fa17"
 fullsemester: "Fall 2017"
 student: "Nina Elizondo-Garza"
 
-intro: "Nina is a person. She was born at a very young age."
+intro: ""
 
 pages:
   - title: "Historical Culinary Reconstruction"

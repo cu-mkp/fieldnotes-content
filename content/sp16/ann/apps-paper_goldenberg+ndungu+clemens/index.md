@@ -3,11 +3,13 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp16"
+fullsemester: "Spring 2016"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Lila Goldenberg"
+  - name: "Njeri Ndungu"
+  - name: "Olivia Clemens"
+topic: "Paper"
 
 intro: ""
 
@@ -21,9 +23,6 @@ pages:
 - title: "Secondary Sources"
   link: "sp16_ann_apps-paper_goldenberg+ndungu+clemens_secondary-sources.html"
   desc: ""
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Materials Source List"
   link: "sp16_ann_apps-paper_goldenberg+ndungu+clemens_materials-source-list.html"
   desc: ""
@@ -35,9 +34,6 @@ pages:
   desc: ""
 - title: "Contemporary Sources+recipes "
   link: "sp16_ann_apps-paper_goldenberg+ndungu+clemens_contemporary-sources+recipes-.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Protocol"
   link: "sp16_ann_apps-paper_goldenberg+ndungu+clemens_protocol.html"

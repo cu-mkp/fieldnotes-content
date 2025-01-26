@@ -3,11 +3,12 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "fa15"
+fullsemester: "Fall 2015"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Kremnitzer"
+  - name: "Shah"
+topic: "Imitation Gems"
 
 intro: ""
 
@@ -18,17 +19,11 @@ pages:
 - title: "Imitation Gems Emerald And Ruby"
   link: "fa15_ann_imitation-gems_kremnitzer+shah_imitation-gems-emerald-and-ruby.html"
   desc: ""
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Kremnitzer+shah Fa15 Annotation Plans"
   link: "fa15_ann_imitation-gems_kremnitzer+shah-fa15-annotation-plans.html"
   desc: ""
 - title: "Imitation Gemstone"
   link: "fa15_ann_imitation-gems_kremnitzer+shah_imitation-gemstone.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Ingredients Materials Exp Protocol"
   link: "fa15_ann_imitation-gems_kremnitzer+shah_ingredients-materials-exp-protocol.html"

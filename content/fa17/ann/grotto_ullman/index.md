@@ -6,8 +6,8 @@ output:
 semester: "fa17"
 fullsemester: "Fall 2017"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Reut Ullman"
+topic: "Grotto"
 
 intro: ""
 
@@ -15,16 +15,10 @@ pages:
 - title: "Ullman Field Work Grotto Annotation"
   link: "fa17_ann_grotto_ullman-field-work-grotto-annotation.html"
   desc: ""
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Ullman Grotto Annotation"
   link: "fa17_ann_grotto_ullman_ullman-grotto-annotation.html"
   desc: ""
 - title: "Ullman Annotation Plans"
   link: "fa17_ann_grotto_ullman-annotation-plans.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 ---

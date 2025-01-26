@@ -3,11 +3,11 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp16"
+fullsemester: "Spring 2016"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Sophie Pitman"
+topic: "Dyes and Textiles"
 
 intro: ""
 
@@ -17,9 +17,6 @@ pages:
   desc: ""
 - title: "Recipes From Other Sources"
   link: "sp16_ann_dyes-and-textiles_pitman_recipes-from-other-sources.html"
-  desc: ""
-- title: "Pages"
-  link: "pages.md"
   desc: ""
 - title: "Ms Fr 640 Recipes"
   link: "sp16_ann_dyes-and-textiles_pitman_ms-fr-640-recipes.html"
@@ -35,9 +32,6 @@ pages:
   desc: ""
 - title: "Annotation Notes"
   link: "sp16_ann_dyes-and-textiles_pitman_annotation-notes.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Materials Required"
   link: "sp16_ann_dyes-and-textiles_pitman_materials-required.html"

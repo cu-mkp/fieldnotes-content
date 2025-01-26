@@ -3,20 +3,18 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "fa15"
+fullsemester: "Fall 2015"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Yi"
+  - name: "Kok"
+topic: "Damask Cloth"
 
 intro: ""
 
 pages:
 - title: "Yi+kok Scouring Fabrics"
   link: "fa15_ann_damask-cloth-green_yi+kok-scouring-fabrics.html"
-  desc: ""
-- title: "Pages"
-  link: "pages.md"
   desc: ""
 - title: "Annotation Plans"
   link: "fa15_ann_damask-cloth-green_yi+kok_annotation-plans.html"
@@ -29,9 +27,6 @@ pages:
   desc: ""
 - title: "Saffron"
   link: "fa15_ann_damask-cloth-green_yi+kok_saffron.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Yi+kok Dyeing Yellow"
   link: "fa15_ann_damask-cloth-green_yi+kok-dyeing-yellow.html"

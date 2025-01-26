@@ -3,26 +3,20 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp16"
+fullsemester: "Spring 2016"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Robin Reich"
+topic: "Dragonsblood"
 
 intro: ""
 
 pages:
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Annotation Notes"
   link: "sp16_ann_dragons-blood_reich_annotation-notes.html"
   desc: ""
 - title: "Research And Thoughts In Preparation For Annotations"
   link: "sp16_ann_dragons-blood_reich_research-and-thoughts-in-preparation-for-annotations.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Bibliography"
   link: "sp16_ann_dragons-blood_reich_bibliography.html"

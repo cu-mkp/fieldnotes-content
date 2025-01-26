@@ -3,23 +3,17 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp16"
+fullsemester: "Spring 2016"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Ann-Sophie Barwich"
+topic: "Magic Tricks"
 
 intro: ""
 
 pages:
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Experimental Recreations Of Recipes"
   link: "sp16_ann_magic-tricks_barwich_experimental-recreations-of-recipes.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Structural And Content Components Of The Recipes"
   link: "sp16_ann_magic-tricks_barwich_structural-and-content-components-of-the-recipes.html"

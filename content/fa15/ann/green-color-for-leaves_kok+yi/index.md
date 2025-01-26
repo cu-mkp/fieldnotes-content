@@ -3,11 +3,12 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "fa15"
+fullsemester: "Fall 2015"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Kok"
+  - name: "Yi"
+topic: "Yellow and Green"
 
 intro: ""
 
@@ -17,11 +18,5 @@ pages:
   desc: ""
 - title: "Sap Green"
   link: "fa15_ann_green-color-for-leaves_kok+yi_sap-green.html"
-  desc: ""
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 ---

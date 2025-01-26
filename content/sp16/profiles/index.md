@@ -3,8 +3,8 @@ title: ""
 output:
     html_document:
         template: profiles.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp16"
+fullsemester: "Spring 2016"
 
 intro: ""
 

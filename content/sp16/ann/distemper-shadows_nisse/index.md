@@ -3,11 +3,11 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp16"
+fullsemester: "Spring 2016"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Cleo Nisse"
+topic: "Distemper Shadows"
 
 intro: ""
 
@@ -17,9 +17,6 @@ pages:
   desc: ""
 - title: "Annotation Plans Cleo"
   link: "sp16_ann_distemper-shadows_nisse_annotation-plans-cleo.html"
-  desc: ""
-- title: "Pages"
-  link: "pages.md"
   desc: ""
 - title: "Cleo Nisse Distemper Paint Layers First Shadow Layers"
   link: "sp16_ann_distemper-shadows_nisse_cleo-nisse-distemper-paint-layers-first-shadow-layers.html"
@@ -50,9 +47,6 @@ pages:
   desc: ""
 - title: "Experiment 1 Distemper Painting Plan"
   link: "sp16_ann_distemper-shadows_nisse_experiment-1-distemper-painting-plan.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Relevant Excerpts From Other Sources"
   link: "sp16_ann_distemper-shadows_nisse_relevant-excerpts-from-other-sources.html"

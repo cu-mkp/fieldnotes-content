@@ -3,11 +3,11 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "fa15"
+fullsemester: "Fall 2015"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Foyer"
+topic: "Gold"
 
 intro: ""
 
@@ -24,9 +24,6 @@ pages:
 - title: "Turmeric Pigment Extraction Experiment"
   link: "fa15_ann_gold-without-gold_foyer_turmeric-pigment-extraction-experiment.html"
   desc: ""
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
 - title: "Turpentine Varnish"
   link: "fa15_ann_gold-without-gold_foyer_turpentine-varnish.html"
   desc: ""
@@ -35,9 +32,6 @@ pages:
   desc: ""
 - title: "Foyer Fa15 Annotation Plans"
   link: "fa15_ann_gold-without-gold_foyer-fa15-annotation-plans.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Gold Without Gold"
   link: "fa15_ann_gold-without-gold_foyer_gold-without-gold.html"

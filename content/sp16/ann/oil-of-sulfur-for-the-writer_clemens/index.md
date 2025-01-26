@@ -3,23 +3,17 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp16"
+fullsemester: "Spring 2016"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Olivia Clemens"
+topic: "Oil of Sulfur"
 
 intro: ""
 
 pages:
 - title: "Recipes"
   link: "sp16_ann_oil-of-sulfur-for-the-writer_clemens_recipes.html"
-  desc: ""
-- title: "Pages"
-  link: "pages.md"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Index Superseded"
   link: "sp16_ann_oil-of-sulfur-for-the-writer_clemens_index-superseded.html"

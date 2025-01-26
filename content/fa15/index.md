@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Fall 2015"
 output:
     html_document:
         template: semester.html

@@ -1,3 +1,15 @@
+---
+title: ""
+output:
+    html_document:
+        template: fieldnote.html
+semester: "fa17"
+fullsemester: "Fall 2017"
+student: "Tenzin Dongchung"
+
+intro: ""
+
+pages:
   - title: "Hcr"
     link: "fa17_fld_dongchung_tenzin_hcr.html"
     desc: ""
@@ -22,3 +34,4 @@
   - title: "Stucco"
     link: "fa17_fld_dongchung_tenzin_stucco.html"
     desc: ""
+---

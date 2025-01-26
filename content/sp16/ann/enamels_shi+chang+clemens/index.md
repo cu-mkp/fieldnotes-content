@@ -3,11 +3,13 @@ title: ""
 output:
     html_document:
         template: annotation-student.html
-semester: "fa17"
-fullsemester: "Fall 2017"
+semester: "sp16"
+fullsemester: "Spring 2016"
 students:
-  - name: "Nina Elizondo-Garza"
-topic: "Stucco"
+  - name: "Yuanxie Shi"
+  - name: "Amy Chang"
+  - name: "Olivia Clemens"
+topic: "Enamels"
 
 intro: ""
 
@@ -17,9 +19,6 @@ pages:
   desc: ""
 - title: "Gemstones Bibliography+secondary Source Notes"
   link: "sp16_ann_enamels_shi+chang+clemens_gemstones-bibliography+secondary-source-notes.html"
-  desc: ""
-- title: "Pages"
-  link: "pages.md"
   desc: ""
 - title: "Experiment Field Notes"
   link: "sp16_ann_enamels_shi+chang+clemens_experiment-field-notes.html"
@@ -32,9 +31,6 @@ pages:
   desc: ""
 - title: "Enamels Bibliography+secondary Source Notes"
   link: "sp16_ann_enamels_shi+chang+clemens_enamels-bibliography+secondary-source-notes.html"
-  desc: ""
-- title: "Index"
-  link: "index.md"
   desc: ""
 - title: "Experimental Protocol"
   link: "sp16_ann_enamels_shi+chang+clemens_experimental-protocol.html"

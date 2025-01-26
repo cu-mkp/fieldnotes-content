@@ -6,7 +6,8 @@ output:
 semester: "fa14"
 fullsemester: "Fall 2014"
 students:
-  - name: "Cataldo and van Visco"
+  - name: "Cataldo"
+  - name: "van Visco"
 topic: "Wax and Sands"
 
 intro: ""
