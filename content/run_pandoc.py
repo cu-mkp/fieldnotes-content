@@ -16,6 +16,7 @@ TEMPLATES = {
     }
 
 SEMESTERS = ['fa14', 'sp15', 'fa15', 'sp16', 'fa16', 'sp17', 'sp17dh', 'fa17']
+NEW_SEMESTERS = ['2018-Fall', '2021-summer', 'pre-2018-Fall']
 
 def pandoc(template):
     cmd = ["pandoc", "-s", "-o" "index.html",
@@ -42,6 +43,8 @@ def home():
     pandoc('home')
     for sem in SEMESTERS:
         semester(sem)
+    for sem in NEW_SEMESTERS:
+        new_semester(sem)
 
 def semester(semester):
     chdir(semester)
@@ -81,6 +84,22 @@ def profiles():
     chdir('profiles')
     pandoc('profiles')
     chdir('..')
+
+def new_semester(semester):
+    chdir(semester)
+    pandoc('semester')
+    # Process subdirectories that have index.md files
+    for subdir in get_dirs():
+        if isdir(subdir):
+            chdir(subdir)
+            if exists_file('index.md'):
+                pandoc('semester')
+            chdir('..')
+    chdir('..')
+
+def exists_file(filename):
+    from os.path import exists
+    return exists(filename)
 
 def main():
     if len(sys.argv) == 2 and sys.argv[1]:
