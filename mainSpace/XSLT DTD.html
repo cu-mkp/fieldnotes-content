@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <title>makingandknowing - XSLT DTD</title>
+    <link rel="stylesheet" href="static/style.css" type="text/css" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  </head>
+  <body>
+    <div class="wiki" id="content_view" style="display: block;">
+<h2 id="toc0"><a name="x-XSLT, DTD"></a><span style="background-color: #ffffff;"><strong>XSLT, DTD</strong></span></h2>
+ <h2 id="toc1"><a name="x-Name: Sohini Chattopadhyay"></a><span style="background-color: #ffffff;"><strong>Name:</strong> Sohini Chattopadhyay</span></h2>
+ <strong><span style="background-color: #ffffff;">Date and Time:</span></strong><br />
+<h3 id="toc2"><a name="x-Name: Sohini Chattopadhyay-2017.April.5, 4:00pm"></a><span style="background-color: #ffffff;">2017.April.5, 4:00pm</span></h3>
+ <strong><span style="background-color: #ffffff;">Location: Studio@Butler</span></strong><br />
+<strong><span style="background-color: #ffffff;">Subject: Classnotes</span></strong><br />
+<br />
+Attributes and Content Model of DTD documentation. * suggests 0 or more presence of that element.<br />
+open Oxygen - open entry-to-html.xsl and a folio xml file.<br />
+presentation by Terry on XSTL - transformation of XML into HTML, Other XML, other text and data format like csv, json, etc.<br />
+Its is a W3C recommendation. They maintain standards for different file formats. Recommendations are the highest level of standard maintained by W3C. They do not use the word standard.<br />
+It takes as input an XML document, and it will not change the origin file but just change the output. therefore the file must be directed to an output. He explains the stylesheet, which is the file &lt;entry-to-html.xsl&gt; in the Github repository. It's not really a stylesheet but rather transform.<br />
+It is itself an xml document and as a result has certain rules about the element and their placement like xml document trees. teh beginning of the stylesheet has some root elements that are standard declarations. Example: &lt;xsl:stylesheet xmlns:xsl=&quot;<a class="wiki_link_ext" href="http://www.w3.org/1999/XSL/Transform" rel="nofollow">http://www.w3.org/1999/XSL/Transform</a>&quot;<br />
+<br />
+xmlns:xs=&quot;<a class="wiki_link_ext" href="http://www.w3.org/2001/XMLSchema" rel="nofollow">http://www.w3.org/2001/XMLSchema</a>&quot;<br />
+<br />
+exclude-result-prefixes=&quot;xs&quot;<br />
+<br />
+version=&quot;2.0&quot;&gt;<br />
+xsl:output - encoding: UTF-8 is standard, method: depending on which output we want, it has the options of XML, text, csv, HTML etc.<br />
+Unlike most programming languages, it is not operating line by line, but as a tree.<br />
+<br />
+tree-view.xsl - go to a folio (example: &lt;p140_2&gt;), use wrench icon on Oxygen, name: tree-view. Specify XSL stylesheet (select tree-view.xsl). transformer: xslt 2, decide where the output goes. Click open in browser. Press &quot;play&quot; button to see if it has been applied to the folio.<br />
+XPath expressions - &quot;/&quot; indicates steps in the hierarchy, elements - use names of the elements. Attributes - name preceded by @ sign.<br />
+<br />
+XPath expressions return a sequence of items. The sequences may be filtered by predicates.<br />
+Exercise: Open a folio file on Oxygen, put &quot;/entry/block[1]&quot; on XPath dialog box. The first block will be selected.<br />
+<br />
+<h2 id="toc3"><a name="x-Name: Sohini Chattopadhyay"></a><span style="background-color: #ffffff;"><strong>Name:</strong> Sohini Chattopadhyay</span></h2>
+ <strong><span style="background-color: #ffffff;">Date and Time:</span></strong><br />
+<h3 id="toc4"><a name="x-Name: Sohini Chattopadhyay-2017.April.7, 3:00pm"></a><span style="background-color: #ffffff;">2017.April.7, 3:00pm</span></h3>
+ <strong><span style="background-color: #ffffff;">Location: Studio@Butler</span></strong><br />
+<strong><span style="background-color: #ffffff;">Subject: Classnotes</span></strong><br />
+<br />
+XPath - distinct-values(//material)<br />
+<br />
+define schema to handle complex 'materials'. have a controlled vocabulary, identify all the variant terms and bring that to a spreadsheet - normalize them : eg: wax - generic lable for candle wax, wax. but since they are also subclasses we can have a larger term - vocab management.<br />
+how to get rid of white space - works on atomic values, or individual items in sequences.<br />
+use of the category 'product' - how to deal with contents that have multiple properties? example p170r_1<br />
+block, margin-block, related-block : should these be different elements or attributes or ...<br />
+sub-recipe and entry-groups ... is referencing (ref) a solution?<br />
+ref as a separate element? to connect two separate components in different xml files, like annotations for example.<br />
+in class, validated xml folder contents with schema - find dtd file, validate with that - successfully done.
+    </div>
+  </body>
+</html>
